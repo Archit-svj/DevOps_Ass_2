@@ -11,7 +11,12 @@ We wanted to consider the developer experience and approach continuous integrati
 Not all things have to match. Everything is gaining popularity in an ever-changing market.
 We began that transformation five years before he did.
 
+Create Branches:
 
+git checkout -b ‘feature-x'
+git checkout -b ‘feature-y'
+git checkout -b ‘feature-z'
+git checkout -b ‘unit-test'
 
 Test case:
 #1) Maintaining a standard repository of reusable test cases for your application will ensure that the most common bugs will be caught more quickly.
