@@ -10,3 +10,12 @@ Transformation of DevOps Throughout the Product
 We wanted to consider the developer experience and approach continuous integration and continuous delivery (CI/CD) as an architecture throughout the product as part of Autodesk's DevOps journey. How are features including source code, desktop program, several back-end cloud services, and mobile program developed and deployed?
 Not all things have to match. Everything is gaining popularity in an ever-changing market.
 We began that transformation five years before he did.
+
+
+
+Test case:
+#1) Maintaining a standard repository of reusable test cases for your application will ensure that the most common bugs will be caught more quickly.
+#2) A checklist helps to complete writing test cases quickly for new versions of the application.
+#3) Reusing the test cases helps to save money on resources to write repetitive tests.
+#4) Important test cases will be covered always, thereby making it almost impossible to forget.
+#5) The testing checklist can be referred by developers to ensure if the most common issues are fixed in the development phase itself.
